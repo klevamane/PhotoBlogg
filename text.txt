@@ -1,0 +1,2 @@
+// helps with debugging errors
+import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
